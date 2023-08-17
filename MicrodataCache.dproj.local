@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/12 16:33:49.000.223,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/26 15:26:57.000.318,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/09 09:58:04.000.356,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/09 17:43:53.000.720,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/10 09:47:45.000.076,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 14:26:19.000.580,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 14:42:07.000.325,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/08/15 14:52:39.000.259,C:\Gustavo\MicrodataCache\uDmDados.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/08/15 14:52:39.000.259,C:\Gustavo\MicrodataCache\uDmDados.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/08/15 14:52:45.000.108,C:\Gustavo\MicrodataCache\uMainForm.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/15 14:52:45.000.108,C:\Gustavo\MicrodataCache\uMainForm.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/15 14:52:52.000.720,C:\Gustavo\MicrodataCache\MicrodataCache.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/08/17 09:05:26.000.905,=C:\Gustavo\MicrodataCache\Unit1.pas</Transaction>
+    <Transaction>2023/08/17 09:05:43.000.077,C:\Gustavo\MicrodataCache\Unit1.pas=C:\Gustavo\MicrodataCache\uTrataErros.pas</Transaction>
+    <Transaction>2023/08/17 15:51:13.308,C:\Gustavo\MIcrodata\MicrodataCache.dproj=C:\Gustavo\MicrodataCache\MicrodataCache.dproj</Transaction>
+    <Transaction>2023/08/17 15:51:50.480,C:\Gustavo\MIcrodata\Src\model\uDmDados.dfm=C:\Gustavo\MicrodataCache\uDmDados.dfm</Transaction>
+    <Transaction>2023/08/17 15:51:50.480,C:\Gustavo\MIcrodata\Src\model\uDmDados.pas=C:\Gustavo\MicrodataCache\uDmDados.pas</Transaction>
+    <Transaction>2023/08/17 15:52:33.890,C:\Gustavo\MIcrodata\Src\view\uMainForm.dfm=C:\Gustavo\MicrodataCache\uMainForm.dfm</Transaction>
+    <Transaction>2023/08/17 15:52:33.890,C:\Gustavo\MIcrodata\Src\view\uMainForm.pas=C:\Gustavo\MicrodataCache\uMainForm.pas</Transaction>
+    <Transaction>2023/08/17 15:54:20.350,C:\Gustavo\MicrodataCache\uMainForm.pas=C:\Gustavo\MIcrodata\Src\view\uMainForm.pas</Transaction>
+    <Transaction>2023/08/17 15:54:20.350,C:\Gustavo\MicrodataCache\uMainForm.dfm=C:\Gustavo\MIcrodata\Src\view\uMainForm.dfm</Transaction>
+    <Transaction>2023/08/17 15:54:34.719,C:\Gustavo\MicrodataCache\uDmDados.pas=C:\Gustavo\MIcrodata\Src\model\uDmDados.pas</Transaction>
+    <Transaction>2023/08/17 15:54:34.719,C:\Gustavo\MicrodataCache\uDmDados.dfm=C:\Gustavo\MIcrodata\Src\model\uDmDados.dfm</Transaction>
+    <Transaction>2023/08/17 15:59:25.680,C:\Gustavo\MicrodataCache\MicrodataCache.dproj=C:\Gustavo\MIcrodata\MicrodataCache.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
